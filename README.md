@@ -68,4 +68,4 @@ Ensure you have the following tools installed on your machine:
 5.  Open Power BI Desktop, navigate to your local downloads folder, and open the file named **`Olist_Sales_Logistics_Intelligence.pbix`** (or your exact file name downloaded from Drive).
 6.  The project will load automatically. All data, semantic relational links, M queries, and custom DAX measures are fully embedded within the file—no database deployment or local file re-routing is required to fully inspect the environment.
 
-📈 **Looking for business insights?** Check out the full [Executive Analytics Report](REPORT.md) (or link your sub-page here) for a deep dive into sales seasonality, freight outliers, logistical bottlenecks, and customer sentiment trends.
+📈 **Looking for business insights?** Check out the full [Executive Analytics Report](ANALYSIS.md) for a deep dive into sales seasonality, freight outliers, logistical bottlenecks, and customer sentiment trends.
